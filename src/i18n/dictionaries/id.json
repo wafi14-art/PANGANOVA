@@ -1,0 +1,43 @@
+{
+  "brand": {
+    "name": "PANGANOVA",
+    "descriptor": "ECONOMIC INTELLIGENCE",
+    "disclaimerSidebar": "Data sampel. Sumber resmi dalam proses verifikasi."
+  },
+  "nav": {
+    "executiveSummary": "Ringkasan Eksekutif",
+    "priceTrends": "Eksplorasi Tren Harga",
+    "commodityComparison": "Perbandingan Komoditas",
+    "purchasingPower": "Harga Pangan & Daya Beli",
+    "insights": "Insight & Metodologi",
+    "comingSoon": "Dalam Pengembangan",
+    "breadcrumbDashboard": "Dasbor"
+  },
+  "header": {
+    "scope": "Cakupan: Nasional · Indonesia",
+    "scopeOverline": "NASIONAL · INDONESIA",
+    "historicalOverline": "ANALISIS HISTORIS",
+    "comparisonOverline": "ANALISIS LINTAS KOMODITAS",
+    "purchasingPowerOverline": "ANALISIS KONSUMSI RUMAH TANGGA",
+    "insightsOverline": "INSIGHT DESKRIPTIF & METODOLOGI",
+    "dateRange": "Jan 2021 – Des 2025",
+    "updated": "Diperbarui: Des 2025 · Pipeline Data Terverifikasi"
+  },
+  "footer": {
+    "transparencyTitle": "Transparansi data.",
+    "transparencyText": "Seluruh angka berbasis pada panel prototipe agregat nasional. Satuan fisik dan atribusi institusi resmi dalam proses konfirmasi.",
+    "metaInfo": "Frekuensi: bulanan · Cakupan: nasional · Satuan: Rupiah (tanpa asumsi satuan fisik)"
+  },
+  "common": {
+    "loading": "Memuat data analitis...",
+    "noData": "Data tidak tersedia",
+    "exportCsv": "Ekspor CSV",
+    "selectCommodity": "Pilih komoditas",
+    "addCommodity": "+ Tambah komoditas",
+    "inDevelopmentTitle": "Modul Dalam Pengembangan",
+    "inDevelopmentDesc": "Modul analitis ini dijadwalkan pada milestone mendatang setelah dataset pengeluaran konsumsi Susenas dan IHK terverifikasi.",
+    "returnToSummary": "Kembali ke Ringkasan Eksekutif",
+    "viewMethodology": "Lihat Dokumentasi Metodologi"
+  }
+}
+

@@ -1,0 +1,421 @@
+[
+  {
+    "id": "bawang-merah",
+    "name": "Bawang Merah",
+    "raw_name_variations": [
+      " Bawang Merah",
+      "Bawang Merah"
+    ],
+    "first_observed_date": "2021-01-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 60,
+    "valid_observations": 60,
+    "missing_observations": 0,
+    "min_price": 24403,
+    "max_price": 57859,
+    "latest_price": 47236,
+    "has_full_history_60m": true
+  },
+  {
+    "id": "bawang-putih-bonggol",
+    "name": "Bawang Putih (Bonggol)",
+    "raw_name_variations": [
+      " Bawang Putih (Bonggol)",
+      "Bawang Putih (Bonggol)"
+    ],
+    "first_observed_date": "2021-01-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 60,
+    "valid_observations": 60,
+    "missing_observations": 0,
+    "min_price": 25701,
+    "max_price": 44750,
+    "latest_price": 37823,
+    "has_full_history_60m": true
+  },
+  {
+    "id": "beras-medium",
+    "name": "Beras Medium",
+    "raw_name_variations": [
+      " Beras Medium",
+      "Beras Medium"
+    ],
+    "first_observed_date": "2021-01-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 60,
+    "valid_observations": 60,
+    "missing_observations": 0,
+    "min_price": 10735,
+    "max_price": 14370,
+    "latest_price": 13540,
+    "has_full_history_60m": true
+  },
+  {
+    "id": "beras-premium",
+    "name": "Beras Premium",
+    "raw_name_variations": [
+      " Beras Premium",
+      "Beras Premium"
+    ],
+    "first_observed_date": "2021-01-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 60,
+    "valid_observations": 60,
+    "missing_observations": 0,
+    "min_price": 12183,
+    "max_price": 16517,
+    "latest_price": 15549,
+    "has_full_history_60m": true
+  },
+  {
+    "id": "beras-sphp",
+    "name": "Beras SPHP",
+    "raw_name_variations": [
+      "Beras SPHP"
+    ],
+    "first_observed_date": "2024-06-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 19,
+    "valid_observations": 19,
+    "missing_observations": 0,
+    "min_price": 12453,
+    "max_price": 13188,
+    "latest_price": 12453,
+    "has_full_history_60m": false
+  },
+  {
+    "id": "cabai-merah-besar",
+    "name": "Cabai Merah Besar",
+    "raw_name_variations": [
+      "Cabai Merah Besar"
+    ],
+    "first_observed_date": "2025-02-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 11,
+    "valid_observations": 11,
+    "missing_observations": 0,
+    "min_price": 42821,
+    "max_price": 54278,
+    "latest_price": 52147,
+    "has_full_history_60m": false
+  },
+  {
+    "id": "cabai-merah-keriting",
+    "name": "Cabai Merah Keriting",
+    "raw_name_variations": [
+      " Cabai Merah Keriting",
+      "Cabai Merah Keriting"
+    ],
+    "first_observed_date": "2021-01-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 60,
+    "valid_observations": 60,
+    "missing_observations": 0,
+    "min_price": 28052,
+    "max_price": 76189,
+    "latest_price": 57503,
+    "has_full_history_60m": true
+  },
+  {
+    "id": "cabai-rawit-merah",
+    "name": "Cabai Rawit Merah",
+    "raw_name_variations": [
+      "Cabai Rawit Merah"
+    ],
+    "first_observed_date": "2021-01-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 60,
+    "valid_observations": 60,
+    "missing_observations": 0,
+    "min_price": 35465,
+    "max_price": 92656,
+    "latest_price": 67666,
+    "has_full_history_60m": true
+  },
+  {
+    "id": "daging-ayam-ras",
+    "name": "Daging Ayam Ras",
+    "raw_name_variations": [
+      " Daging Ayam Ras",
+      "Daging Ayam Ras"
+    ],
+    "first_observed_date": "2021-01-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 60,
+    "valid_observations": 60,
+    "missing_observations": 0,
+    "min_price": 33457,
+    "max_price": 39810,
+    "latest_price": 39810,
+    "has_full_history_60m": true
+  },
+  {
+    "id": "daging-kerbau-beku-impor",
+    "name": "Daging Kerbau Beku (Impor)",
+    "raw_name_variations": [
+      "Daging Kerbau Beku (Impor)"
+    ],
+    "first_observed_date": "2025-02-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 11,
+    "valid_observations": 11,
+    "missing_observations": 0,
+    "min_price": 105220,
+    "max_price": 107514,
+    "latest_price": 106764,
+    "has_full_history_60m": false
+  },
+  {
+    "id": "daging-kerbau-segar-lokal",
+    "name": "Daging Kerbau Segar (Lokal)",
+    "raw_name_variations": [
+      "Daging Kerbau Segar (Lokal)"
+    ],
+    "first_observed_date": "2025-02-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 11,
+    "valid_observations": 11,
+    "missing_observations": 0,
+    "min_price": 140557,
+    "max_price": 144686,
+    "latest_price": 140557,
+    "has_full_history_60m": false
+  },
+  {
+    "id": "daging-sapi-murni",
+    "name": "Daging Sapi Murni",
+    "raw_name_variations": [
+      " Daging Sapi Murni",
+      "Daging Sapi Murni"
+    ],
+    "first_observed_date": "2021-01-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 60,
+    "valid_observations": 60,
+    "missing_observations": 0,
+    "min_price": 121836,
+    "max_price": 137824,
+    "latest_price": 135300,
+    "has_full_history_60m": true
+  },
+  {
+    "id": "garam-konsumsi",
+    "name": "Garam konsumsi",
+    "raw_name_variations": [
+      " Garam konsumsi",
+      "Garam konsumsi"
+    ],
+    "first_observed_date": "2023-01-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 36,
+    "valid_observations": 33,
+    "missing_observations": 3,
+    "min_price": 11503,
+    "max_price": 12690,
+    "latest_price": 11503,
+    "has_full_history_60m": false
+  },
+  {
+    "id": "gula-pasir-lokalcurah",
+    "name": "Gula Pasir Lokal/Curah",
+    "raw_name_variations": [
+      " Gula Pasir Lokal/Curah",
+      "Gula Pasir Lokal/Curah"
+    ],
+    "first_observed_date": "2021-01-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 60,
+    "valid_observations": 60,
+    "missing_observations": 0,
+    "min_price": 13277,
+    "max_price": 18547,
+    "latest_price": 18044,
+    "has_full_history_60m": true
+  },
+  {
+    "id": "ikan-bandeng",
+    "name": "Ikan Bandeng",
+    "raw_name_variations": [
+      " Ikan Bandeng",
+      "Ikan Bandeng"
+    ],
+    "first_observed_date": "2023-01-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 36,
+    "valid_observations": 35,
+    "missing_observations": 1,
+    "min_price": 33523,
+    "max_price": 38691,
+    "latest_price": 35780,
+    "has_full_history_60m": false
+  },
+  {
+    "id": "ikan-kembung",
+    "name": "Ikan Kembung",
+    "raw_name_variations": [
+      " Ikan Kembung",
+      "Ikan Kembung"
+    ],
+    "first_observed_date": "2023-01-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 36,
+    "valid_observations": 35,
+    "missing_observations": 1,
+    "min_price": 38235,
+    "max_price": 43216,
+    "latest_price": 43216,
+    "has_full_history_60m": false
+  },
+  {
+    "id": "ikan-tongkol",
+    "name": "Ikan Tongkol",
+    "raw_name_variations": [
+      " Ikan Tongkol",
+      "Ikan Tongkol"
+    ],
+    "first_observed_date": "2023-01-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 36,
+    "valid_observations": 35,
+    "missing_observations": 1,
+    "min_price": 32244,
+    "max_price": 37221,
+    "latest_price": 35536,
+    "has_full_history_60m": false
+  },
+  {
+    "id": "jagung-tk-peternak",
+    "name": "Jagung Tk. Peternak",
+    "raw_name_variations": [
+      " Jagung Tk. Peternak",
+      "Jagung Tk. Peternak"
+    ],
+    "first_observed_date": "2022-01-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 48,
+    "valid_observations": 44,
+    "missing_observations": 4,
+    "min_price": 5312,
+    "max_price": 9010,
+    "latest_price": 6937,
+    "has_full_history_60m": false
+  },
+  {
+    "id": "kedelai-biji-kering",
+    "name": "Kedelai Biji Kering",
+    "raw_name_variations": [
+      " Kedelai Biji Kering",
+      "Kedelai Biji Kering"
+    ],
+    "first_observed_date": "2021-01-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 60,
+    "valid_observations": 60,
+    "missing_observations": 0,
+    "min_price": 10361,
+    "max_price": 14969,
+    "latest_price": 10776,
+    "has_full_history_60m": true
+  },
+  {
+    "id": "minyak-goreng-curah",
+    "name": "Minyak Goreng Curah",
+    "raw_name_variations": [
+      " Minyak Goreng Curah",
+      "Minyak Goreng Curah"
+    ],
+    "first_observed_date": "2022-01-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 48,
+    "valid_observations": 45,
+    "missing_observations": 3,
+    "min_price": 13779,
+    "max_price": 18611,
+    "latest_price": 17640,
+    "has_full_history_60m": false
+  },
+  {
+    "id": "minyak-goreng-kemasan",
+    "name": "Minyak Goreng Kemasan",
+    "raw_name_variations": [
+      " Minyak Goreng Kemasan",
+      "Minyak Goreng Kemasan"
+    ],
+    "first_observed_date": "2021-01-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 60,
+    "valid_observations": 60,
+    "missing_observations": 0,
+    "min_price": 12577,
+    "max_price": 25062,
+    "latest_price": 20957,
+    "has_full_history_60m": true
+  },
+  {
+    "id": "minyak-kita",
+    "name": "Minyak Kita",
+    "raw_name_variations": [
+      "Minyak Kita"
+    ],
+    "first_observed_date": "2025-02-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 11,
+    "valid_observations": 11,
+    "missing_observations": 0,
+    "min_price": 17475,
+    "max_price": 17647,
+    "latest_price": 17571,
+    "has_full_history_60m": false
+  },
+  {
+    "id": "telur-ayam-ras",
+    "name": "Telur Ayam Ras",
+    "raw_name_variations": [
+      " Telur Ayam Ras",
+      "Telur Ayam Ras"
+    ],
+    "first_observed_date": "2021-01-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 60,
+    "valid_observations": 60,
+    "missing_observations": 0,
+    "min_price": 22611,
+    "max_price": 31923,
+    "latest_price": 31390,
+    "has_full_history_60m": true
+  },
+  {
+    "id": "tepung-terigu-curah",
+    "name": "Tepung Terigu Curah",
+    "raw_name_variations": [
+      " Tepung Terigu Curah",
+      "Tepung Terigu Curah"
+    ],
+    "first_observed_date": "2021-01-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 60,
+    "valid_observations": 60,
+    "missing_observations": 0,
+    "min_price": 8291,
+    "max_price": 11524,
+    "latest_price": 9722,
+    "has_full_history_60m": true
+  },
+  {
+    "id": "tepung-terigu-kemasan",
+    "name": "Tepung Terigu Kemasan",
+    "raw_name_variations": [
+      " Tepung Terigu Kemasan",
+      "Tepung Terigu Kemasan"
+    ],
+    "first_observed_date": "2023-01-01",
+    "latest_observed_date": "2025-12-01",
+    "total_observations": 36,
+    "valid_observations": 33,
+    "missing_observations": 3,
+    "min_price": 12854,
+    "max_price": 14446,
+    "latest_price": 12924,
+    "has_full_history_60m": false
+  }
+]

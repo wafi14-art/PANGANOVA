@@ -1,0 +1,43 @@
+{
+  "brand": {
+    "name": "PANGANOVA",
+    "descriptor": "ECONOMIC INTELLIGENCE",
+    "disclaimerSidebar": "Sample data only. Official sources not yet connected."
+  },
+  "nav": {
+    "executiveSummary": "Executive Summary",
+    "priceTrends": "Price Trend Exploration",
+    "commodityComparison": "Commodity Comparison",
+    "purchasingPower": "Food Prices & Purchasing Power",
+    "insights": "Insights & Methodology",
+    "comingSoon": "In Development",
+    "breadcrumbDashboard": "Dashboard"
+  },
+  "header": {
+    "scope": "Scope: National · Indonesia",
+    "scopeOverline": "NATIONAL · INDONESIA",
+    "historicalOverline": "HISTORICAL ANALYSIS",
+    "comparisonOverline": "CROSS · COMMODITY ANALYSIS",
+    "purchasingPowerOverline": "HOUSEHOLD CONSUMPTION ANALYSIS",
+    "insightsOverline": "DESCRIPTIVE & METHODOLOGICAL INSIGHTS",
+    "dateRange": "Jan 2021 – Dec 2025",
+    "updated": "Updated: Dec 2025 · Verified Data Pipeline"
+  },
+  "footer": {
+    "transparencyTitle": "Data transparency.",
+    "transparencyText": "All values are based on the national aggregated prototype panel. Physical units and official institutional attribution are pending verification.",
+    "metaInfo": "Frequency: monthly · Scope: national · Unit: Rupiah (no physical unit assumed)"
+  },
+  "common": {
+    "loading": "Loading analytical data...",
+    "noData": "No data available",
+    "exportCsv": "Export CSV",
+    "selectCommodity": "Select commodity",
+    "addCommodity": "+ Add commodity",
+    "inDevelopmentTitle": "Module Under Development",
+    "inDevelopmentDesc": "This analytical module is scheduled for future milestones after official household expenditure and CPI datasets are validated.",
+    "returnToSummary": "Return to Executive Summary",
+    "viewMethodology": "View Methodology Documentation"
+  }
+}
+

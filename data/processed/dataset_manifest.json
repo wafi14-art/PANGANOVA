@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "platform": "PANGANOVA — Food Price & Economic Intelligence Platform",
+    "dataset_name": "National Aggregated Monthly Food Prices (Prototype Panel)",
+    "source_raw_file": "1777262464.csv",
+    "source_sha256": "ec270d1f625e2c3fb80eb9648c1dccf822e3eb6092fa14267fcf5a39d706f9cd",
+    "source_file_size_bytes": 47683,
+    "pipeline_execution_timestamp": "2026-11-04T05:38:11.330144+00:00",
+    "data_verification_status": "PENDING_OFFICIAL_CONFIRMATION",
+    "physical_unit_status": "UNVERIFIED (Displaying plain Rupiah format; no Rp/kg assumption)",
+    "methodological_notes": [
+      "Values with \"-\" mapped strictly to null, not 0.",
+      "Whitespace in commodity names normalized with leading/trailing strip.",
+      "Composite primary key: commodity + date (ISO YYYY-MM-01).",
+      "Dataset exhibits unbalanced panel structure across 2021-2025."
+    ]
+  },
+  "summary_statistics": {
+    "total_raw_rows": 1119,
+    "total_processed_records": 1119,
+    "total_unique_commodities": 25,
+    "total_valid_prices": 1103,
+    "total_missing_prices": 16,
+    "duplicate_keys_detected": 0,
+    "period_start": "2021-01-01",
+    "period_end": "2025-12-01",
+    "commodities_with_full_60m": 13,
+    "commodities_with_partial_history": 12
+  }
+}
